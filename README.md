@@ -16,7 +16,7 @@ Os exemplos usam o filme Top Gun: Maverick como referência.
 
 🚀 Tecnologias utilizadas
 Java
-IntelliJ IDEA (ou qualquer IDE Java)
+IntelliJ IDEA
 Scanner para entrada de dados
 📂 Estrutura do projeto
 Main.java
